@@ -1,2 +1,2 @@
 # mohmalat
-A short story in farsi
+A short story in Farsi
